@@ -1,0 +1,6 @@
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Common\bin\Debug\BankingAppFinal.Common.dll
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Common\bin\Debug\BankingAppFinal.Common.pdb
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Common\obj\Debug\BankingAppFinal.Common.csprojAssemblyReference.cache
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Common\obj\Debug\BankingAppFinal.Common.csproj.CoreCompileInputs.cache
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Common\obj\Debug\BankingAppFinal.Common.dll
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Common\obj\Debug\BankingAppFinal.Common.pdb

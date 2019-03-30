@@ -1,0 +1,14 @@
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\obj\Debug\BankingAppFinal.Services.csprojAssemblyReference.cache
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\obj\Debug\BankingAppFinal.Services.csproj.CoreCompileInputs.cache
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\BankingAppFinal.Services.dll.config
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\BankingAppFinal.Services.dll
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\BankingAppFinal.Services.pdb
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\BankingAppFinal.Common.dll
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\EntityFramework.dll
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\BankingAppFinal.Common.pdb
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\EntityFramework.xml
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\obj\Debug\BankingAppFinal.Services.csproj.CopyComplete
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\obj\Debug\BankingAppFinal.Services.dll
+C:\Users\rahjoshi\source\repos\BankAppFinal\BankingAppFinal.Services\obj\Debug\BankingAppFinal.Services.pdb

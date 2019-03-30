@@ -1,0 +1,23 @@
+﻿@model BankAppFinal.Models.NewRole
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create a new Role</h2>
+<div class="row">
+    <div class="col-lg-4">
+
+    </div>
+    <div class="col-lg-8">
+
+    </div>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Name, new { @class = "LoginText" })
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Name)
+    @Html.ValidationSummary()
+    <button type="submit">Save</button>
+}
